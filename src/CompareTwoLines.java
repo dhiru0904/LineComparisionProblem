@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class CompareTwoLines {
     public static void main(String[] args) {
-        System.out.println("Welcome to Line Comparison Computation Program");
+        System.out.println("Welcome to Line Comparison Program");
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter First line End Points:-");
         System.out.print("Enter First Co-ordinates(x1,y1): \n");
